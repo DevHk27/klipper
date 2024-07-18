@@ -1,0 +1,6 @@
+.button-selector{
+    flex-grow: 3;
+    height: 4.5em;
+    font-size: 1.5em;
+    padding: 1em;
+}
